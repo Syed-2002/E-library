@@ -1,5 +1,5 @@
 # E-library 
-Created an e-library together with a colleague. Giving follow-up to certificates and monitoring commodity compliance of requirements. Offering technical support to the community, revise and finalize announcements as well as notices
+Created an e-library together with a colleague for the School. Giving follow-up to certificates and monitoring commodity compliance of requirements. Offering technical support to the community, revise and finalize announcements as well as notices
 
 https://www.iisjedinfo.com/online-library/
 
@@ -54,6 +54,8 @@ Requirements
 PHP
 
 The source code of this project is written in PHP. So, you'll require WAMP/XAMPP/MAMP to run this project.
+
+Tasks performed by Librarian:-
 
 - Librarian can read information about any member
 - Librarian can track the books issued by a particular student
