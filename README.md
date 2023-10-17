@@ -1,5 +1,5 @@
 # E-library 
-Created an e-library together with a colleague for the School. Giving follow-up to certificates and monitoring commodity compliance of requirements. Offering technical support to the community, revise and finalize announcements as well as notices
+Created an e-library is to store, access, and manage magazine articles, books, audio files, images, and video files. I made an e-library together with a colleague for the School. Giving follow-up to certificates and monitoring commodity compliance of requirements. Offering technical support to the community, revise and finalize announcements as well as notices
 
 https://www.iisjedinfo.com/online-library/
 
